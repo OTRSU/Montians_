@@ -21,10 +21,14 @@ namespace HelloWorldApplication
     {
         static void Main(string[] args)
         {
-            Test r = new Test();
-            r.Acceptdetails();
-            r.Display();
-            Console.ReadLine();
+            int choose = Convert.ToInt32(Console.ReadLine());
+            if (choose == 1){
+                Test r = new Test();
+                r.Acceptdetails();
+                r.Display();
+                Console.ReadLine();
+            }
+            
         }
     }
 }
