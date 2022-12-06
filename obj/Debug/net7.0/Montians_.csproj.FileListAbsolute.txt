@@ -1,0 +1,15 @@
+C:\Users\xs\Desktop\Montians_\bin\Debug\net7.0\Montians_.exe
+C:\Users\xs\Desktop\Montians_\bin\Debug\net7.0\Montians_.deps.json
+C:\Users\xs\Desktop\Montians_\bin\Debug\net7.0\Montians_.runtimeconfig.json
+C:\Users\xs\Desktop\Montians_\bin\Debug\net7.0\Montians_.dll
+C:\Users\xs\Desktop\Montians_\bin\Debug\net7.0\Montians_.pdb
+C:\Users\xs\Desktop\Montians_\obj\Debug\net7.0\Montians_.csproj.AssemblyReference.cache
+C:\Users\xs\Desktop\Montians_\obj\Debug\net7.0\Montians_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xs\Desktop\Montians_\obj\Debug\net7.0\Montians_.AssemblyInfoInputs.cache
+C:\Users\xs\Desktop\Montians_\obj\Debug\net7.0\Montians_.AssemblyInfo.cs
+C:\Users\xs\Desktop\Montians_\obj\Debug\net7.0\Montians_.csproj.CoreCompileInputs.cache
+C:\Users\xs\Desktop\Montians_\obj\Debug\net7.0\Montians_.dll
+C:\Users\xs\Desktop\Montians_\obj\Debug\net7.0\refint\Montians_.dll
+C:\Users\xs\Desktop\Montians_\obj\Debug\net7.0\Montians_.pdb
+C:\Users\xs\Desktop\Montians_\obj\Debug\net7.0\Montians_.genruntimeconfig.cache
+C:\Users\xs\Desktop\Montians_\obj\Debug\net7.0\ref\Montians_.dll
