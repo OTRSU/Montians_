@@ -21,6 +21,7 @@ namespace HelloWorldApplication
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("===========================\nOPENRC.TECH\n===========================");
             int choose = Convert.ToInt32(Console.ReadLine());
             if (choose == 1){
                 Test r = new Test();
