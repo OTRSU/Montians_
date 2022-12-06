@@ -5,8 +5,8 @@ namespace HelloWorldApplication
         double length;
         double width;
         public void Acceptdetails(){
-            length = 65;
-            width = 87;
+            length = Convert.ToDouble(Console.ReadLine());
+            width = Convert.ToDouble(Console.ReadLine());
         }
         public double GetArea(){
             return length * width;
@@ -24,6 +24,7 @@ namespace HelloWorldApplication
             Test r = new Test();
             r.Acceptdetails();
             r.Display();
+            Console.ReadLine();
         }
     }
 }
